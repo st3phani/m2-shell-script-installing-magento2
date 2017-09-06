@@ -1,6 +1,6 @@
 # m2-shell-script-installing-magento2
 
-#### The command for your helper of this script is::
+#### The command for your helper of this script is:
 ```
 sh m2_install.sh -h
 ```
